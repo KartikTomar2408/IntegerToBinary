@@ -57,3 +57,7 @@ if streamlit.button('Convert to binary'):
 The user interface is created using Streamlit. It prompts the user to input an integer value and displays its binary equivalent upon clicking the conversion button.
 
 ---
+
+
+![Sample screenshot](https://github.com/KartikTomar2408/IntegerToBinary/assets/95467161/262f9a3a-8d3a-41cd-b412-bbdc4f07479b)
+
